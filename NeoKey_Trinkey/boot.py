@@ -1,4 +1,4 @@
-# boot.py for Adafruit NeoKey Trinkey
+# boot.py for Adafruit NeoKey Trinkey with CircuitPython 7.0
 # The drive will not be activated unless you press a key.
 import board
 import usb_hid
